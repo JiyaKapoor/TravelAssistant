@@ -1,0 +1,75 @@
+[
+  {
+    "hotel_id": "HOTEL_001",
+    "name": "Santana Beach Resort",
+    "area": "Candolim Beach, North Goa",
+    "star_rating": 4.2,
+    "price_per_night": 4200.0,
+    "room_type": "Direct Beachfront Ocean Cottage",
+    "room_description": "Step directly onto the golden sands of Candolim beach. Private balcony and patio facing the ocean waves, with direct unobstructed panoramic views of the Arabian Sea. Watch the sunset directly from your bed.",
+    "cancellation_terms": "FREE CANCELLATION: Guests can cancel free of charge until 72 hours before arrival. 100% full refund guaranteed. Cancellations within 72 hours are subject to a 1-night cancellation charge.",
+    "amenities": ["Direct Beachfront", "Swimming Pool", "Free WiFi", "Breakfast Included", "Bar", "Air Conditioning"],
+    "tags": ["beachfront", "sea view", "budget-friendly", "refundable"]
+  },
+  {
+    "hotel_id": "HOTEL_002",
+    "name": "Whispering Palms Beach Resort",
+    "area": "Candolim Beach, North Goa",
+    "star_rating": 4.4,
+    "price_per_night": 4800.0,
+    "room_type": "Ocean Breeze Balcony Studio",
+    "room_description": "Features an expansive private balcony with uninterrupted sweeping views of Candolim beach and the Arabian Sea. Enjoy soothing ocean breeze, sound of crashing waves, and spectacular sunset views over the water.",
+    "cancellation_terms": "FREE CANCELLATION: Cancel without any fee up to 24 hours before 14:00 on check-in date. Full refund credited within 3-5 business days. Zero penalty for early cancellations.",
+    "amenities": ["Sea View", "Swimming Pool", "Spa & Wellness", "Free Breakfast", "Restaurant", "Direct Beach Walkway"],
+    "tags": ["beach view", "sunset view", "free cancellation", "spa"]
+  },
+  {
+    "hotel_id": "HOTEL_003",
+    "name": "Taj Fort Aguada Resort & Spa",
+    "area": "Sinquerim Beach, Candolim, North Goa",
+    "star_rating": 4.8,
+    "price_per_night": 6500.0,
+    "room_type": "Superior Sea Facing Heritage Room",
+    "room_description": "Perched on the cliffside above Sinquerim beach. Magnificent full beach view looking over the Arabian Sea and historic 16th-century Portuguese fortress walls. Private sun terrace with panoramic sea vistas.",
+    "cancellation_terms": "FREE CANCELLATION: Reservations can be cancelled up to 48 hours prior to check-in with zero cancellation fee and full 100% reimbursement. Late cancellations within 48 hours will be billed 1 night room charge.",
+    "amenities": ["Luxury Beach View", "Private Beach Access", "Infinity Pool", "Multiple Fine Dining", "Spa", "Gym"],
+    "tags": ["luxury", "beach view", "heritage", "free cancellation"]
+  },
+  {
+    "hotel_id": "HOTEL_004",
+    "name": "Fairfield by Marriott Goa Anjuna",
+    "area": "Anjuna, North Goa",
+    "star_rating": 4.3,
+    "price_per_night": 3900.0,
+    "room_type": "Deluxe Garden & Pool View Room",
+    "room_description": "Modern contemporary hotel room with tranquil views over the central swimming pool courtyard and lush green landscaped gardens. Situated 2.5 kilometers inland from Anjuna beach.",
+    "cancellation_terms": "FREE CANCELLATION: Cancel for free up to 24 hours before check-in. Full refund guaranteed.",
+    "amenities": ["Pool View", "Fitness Center", "Breakfast Included", "Free WiFi", "Bar"],
+    "tags": ["pool view", "inland", "refundable", "no beach view"]
+  },
+  {
+    "hotel_id": "HOTEL_005",
+    "name": "Goa Marriott Resort & Spa",
+    "area": "Miramar Beach, Panaji",
+    "star_rating": 4.7,
+    "price_per_night": 6800.0,
+    "room_type": "Bay View King Room",
+    "room_description": "Stunning waterfront accommodation overlooking Miramar beach and the Mandovi river bay estuary. Floor-to-ceiling windows with picturesque sea and bay view.",
+    "cancellation_terms": "NON-REFUNDABLE SPECIAL PROMO: This promotional booking is non-refundable. If you cancel, modify, or do not show up, no refund will be issued and the full amount (100%) will be charged.",
+    "amenities": ["Waterfront View", "Casino", "Infinity Pool", "Spa", "Fine Dining"],
+    "tags": ["beach view", "non-refundable", "luxury"]
+  },
+  {
+    "hotel_id": "HOTEL_006",
+    "name": "Marinha Dourada Resort",
+    "area": "Arpora, North Goa",
+    "star_rating": 3.8,
+    "price_per_night": 2800.0,
+    "room_type": "Serene Lake View Room",
+    "room_description": "Charming rooms looking onto freshwater lakes with boating facilities and surrounding coconut groves. Located 3.5 km away from Baga and Calangute beaches.",
+    "cancellation_terms": "FREE CANCELLATION: Free cancellation up to 48 hours before arrival date.",
+    "amenities": ["Lake View", "Two Swimming Pools", "Boating Lake", "Restaurant"],
+    "tags": ["lake view", "inland", "budget", "no beach view"]
+  }
+]
+
